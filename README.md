@@ -6,13 +6,13 @@ Requirements:
 3. VirtualBox
 
 To Setup Project to run:
-1. Install Vagrant and VirtualBox
+1. Install Vagrant and VirtualBox to setup the environment.
 2. Download or Clone fullstack-nanodegree-vm repository.
 3. Find the catalog folder and replace it with the content of this current repository, by either downloading or cloning it from Here.
 
 Running Project: All the below 3 steps must be executed on vagrant terminal
 1. Step 1. python database_setup.py - To setup the database of the project.
-2. Step 2. python lotsofmenus.py - to populate our database with the data provided
+2. Step 2. python lotsofmenus.py - to populate our database with the data provided.
 3. Step 3. python final_project.py - main source code of the project which includes flask and authentication and database query fetching
 and other main functions.
 
